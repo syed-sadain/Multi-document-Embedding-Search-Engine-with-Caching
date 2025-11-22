@@ -1,0 +1,3 @@
+MLOps
+
+This document discusses the machine learning concept 'MLOps'. It explains key ideas, practical applications, advantages, and limitations. Additional example: When applying MLOps, practitioners often consider data quality, hyperparameters, model complexity, and evaluation metrics.

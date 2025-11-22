@@ -1,0 +1,3 @@
+PCA
+
+This document discusses the machine learning concept 'PCA'. It explains key ideas, practical applications, advantages, and limitations. Additional example: When applying PCA, practitioners often consider data quality, hyperparameters, model complexity, and evaluation metrics.
