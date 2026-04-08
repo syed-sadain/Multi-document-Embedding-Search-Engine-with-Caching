@@ -1,5 +1,5 @@
 
-📘 Multi-Document Embedding Search Engine with Caching
+📘 # Multi-Document Embedding Search Engine with Caching
 
 A semantic search engine that uses Machine Learning, NLP embeddings, and similarity search algorithms to retrieve the most relevant information across multiple documents. Includes a caching system to avoid repeated embedding generation and improve performance.
 
