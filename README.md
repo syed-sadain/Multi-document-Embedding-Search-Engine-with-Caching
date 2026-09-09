@@ -1,4 +1,4 @@
-# 🔎 Multi-Document Embedding Search Engine
+# 🔎 Multi-Document Embedding Search Engine [RAG]
 
 > **AI-powered semantic search engine for finding relevant information across multiple documents using transformer-based embeddings, cosine similarity, and an intelligent caching layer.**
 
